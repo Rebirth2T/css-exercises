@@ -1,0 +1,21 @@
+.test-class,
+.test-class-cooler {
+  background-color: red;
+  color: black;
+}
+
+.test-class-cooler {
+  font-size: 20px;
+}
+
+#two {
+  background-color: white;
+  color: blue;
+  font-size: 20px;
+}
+
+#three {
+  background-color: green;
+  color: black;
+  font-weight: bold;
+}
